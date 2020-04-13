@@ -1,0 +1,49 @@
+body
+{
+    background-color: #000;
+    text-align: left;
+    line-height: 1.5em;
+    font-family: sans-serif;
+
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    border-radius: 15%;
+    border-style: dashed;
+    padding: 2% ;
+    border-color: dimgrey;
+ 
+}
+.inputArea{
+    padding: 7% 15%;
+    background-color: #000;
+    color: beige;
+    border-radius: 15%;
+    border-style: dotted;
+    border-color: azure;
+    font-size: medium; 
+    
+}
+
+label{
+
+    color: gainsboro;
+    font-size: large;
+}
+
+
+#btnSubmit{
+    height: 35px;
+    width: 150px;
+    
+    background-color: powderblue;
+
+}
+
+#cardHead{
+    color: #222;
+    text-decoration-color: bisque;
+
+
+}
